@@ -5,7 +5,7 @@ Some tips and tricks for programmers.
   Returns the names of folders within a given directory path.
   <br>
     eg. 
-    <code><br>:~$get_folders.py /path/to/folder/
+    <code><br>:~$get_folders.py /path/to/folder/<br>
     <br>['folder1','folder2','folder3']
     </code>
  
