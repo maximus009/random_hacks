@@ -1,7 +1,7 @@
 import sys,os
 if __name__=="__main__":
     '''
-    Return foldewr names in given path to automatically create dictionary for
+    Return folder names in given path to automatically create dictionary for
     any input.
     '''
     for root,dirs,files in os.walk(sys.argv[1]):
